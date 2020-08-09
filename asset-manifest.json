@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloudCounter/static/css/main.bd1843e5.chunk.css",
+    "main.js": "/cloudCounter/static/js/main.9be18e85.chunk.js",
+    "main.js.map": "/cloudCounter/static/js/main.9be18e85.chunk.js.map",
+    "runtime-main.js": "/cloudCounter/static/js/runtime-main.4c5d11c0.js",
+    "runtime-main.js.map": "/cloudCounter/static/js/runtime-main.4c5d11c0.js.map",
+    "static/js/2.a592cfb7.chunk.js": "/cloudCounter/static/js/2.a592cfb7.chunk.js",
+    "static/js/2.a592cfb7.chunk.js.map": "/cloudCounter/static/js/2.a592cfb7.chunk.js.map",
+    "index.html": "/cloudCounter/index.html",
+    "precache-manifest.5cb3be61ee7a8ed1f60b051cba88ceb0.js": "/cloudCounter/precache-manifest.5cb3be61ee7a8ed1f60b051cba88ceb0.js",
+    "service-worker.js": "/cloudCounter/service-worker.js",
+    "static/css/main.bd1843e5.chunk.css.map": "/cloudCounter/static/css/main.bd1843e5.chunk.css.map",
+    "static/js/2.a592cfb7.chunk.js.LICENSE.txt": "/cloudCounter/static/js/2.a592cfb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5d11c0.js",
+    "static/js/2.a592cfb7.chunk.js",
+    "static/css/main.bd1843e5.chunk.css",
+    "static/js/main.9be18e85.chunk.js"
+  ]
+}
